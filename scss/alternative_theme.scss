@@ -1,0 +1,30 @@
+
+
+
+:root{
+
+    --container-color:       hsl(0, 00%, 100%);
+    --body-color:            hsl(2, 60%, 099%);
+    --scroll-bar-color:      hsl(2, 12%, 090%);
+    --input-color:           hsl(2, 70%, 096%);
+    --first-color-lighter:   hsl(2, 53%, 087%);
+    --scroll-thumb-color:    hsl(2, 12%, 080%);
+    --first-color-alt:       hsl(2, 41%, 075%);
+    --text-color-light:      hsl(2, 08%, 065%);
+    --text-color:            hsl(2, 08%, 045%);
+    --first-color:           hsl(2, 85%, 035%);
+    --first-color-second:    hsl(2, 46%, 025%);
+    --title-color:           hsl(2, 08%, 015%);
+}
+
+body.dark-theme {
+
+    --title-color:              hsl(0, 08%, 95%);
+    --text-color:               hsl(0, 08%, 75%);
+    --scroll-bar-color:         hsl(2, 12%, 48%);
+    --scroll-thumb-color:       hsl(3, 12%, 36%);
+    --input-color:              hsl(2, 29%, 16%);
+    --container-color:          hsl(2, 29%, 16%);
+    --first-color-second:       hsl(5, 32%, 08%);
+    --body-color:               hsl(0, 00%, 00%);
+}
